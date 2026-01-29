@@ -41,6 +41,7 @@
 ---
 
 ### 🤝 Connect with Me
+- 🌐 Portfolio: https://khushi08shekhawat.github.io
 - 💼 LinkedIn: https://www.linkedin.com/in/khushi-shekhawat-45616331b/
 - 📧 Email: khushishekhawat0811@gmail.com
 <!--
