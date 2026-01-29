@@ -12,17 +12,6 @@
 
 ---
 
-### 🚀 Projects
-- 🏛 **Landmark Detection System (CNNs)**  
-  End-to-end image classification pipeline using TensorFlow  
-- 🐾 **Pet Face Classification**  
-  Binary classification system with structured training & inference  
-- 📦 **Object Detection System**  
-  Multi-class object detection with bounding box localization  
-- 🧱 **Text-to-3D Generator (Prototype)**  
-  Conceptual system converting text input into 3D models  
-
----
 
 ### 🛠️ Tech Stack
 **Languages:**  
@@ -38,7 +27,15 @@
 `Google Colab` `Jupyter Notebook` `VS Code`
 
 ---
+### 🧩 Skills
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushi08shekhawat&show_icons=true&theme=tokyonight" height="165"/>
@@ -48,7 +45,7 @@
 ---
 
 ### 🤝 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 💼 LinkedIn: https://www.linkedin.com/in/khushi-shekhawat-45616331b/
 - 📧 Email: khushishekhawat0811@gmail.com
 <!--
 **khushi08shekhawat/khushi08shekhawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
