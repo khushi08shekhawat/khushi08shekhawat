@@ -1,61 +1,105 @@
-<h1 align="center">Hi 👋, I'm Khushi Shekhawat</h1>
-<h3 align="center">Aspiring Software Development Engineer (SDE) | CSE Undergraduate</h3>
+<div align="center">
+
+# Hi 👋, I'm Khushi Shekhawat
+
+### `code • create • learn • repeat`
+
+CSE Undergrad • Software Development • AI/ML
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+DSA+with+Java+%E2%98%95;Building+things+for+the+web+%F0%9F%8C%90;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Always+learning+something+new+%E2%9C%A8" />
+
+</div>
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 B.Tech (CSE), Batch ’27 at **Amity University Rajasthan**
-- 💡 Primary interest in **Software Development Engineering (SDE)**
-- 🔍 Experience in **AI, Machine Learning & Web Development**
-- 🎨 Creative interest in **Graphic Design**
-- 🌱 Currently strengthening **DSA, core CS fundamentals & system design basics**
+## 👩🏻‍💻 A little about me
 
+```java
+public class Khushi {
 
+    String education = "B.Tech CSE • Class of 2027";
+    String focus = "Software Development";
+
+    String[] currentlyLearning = {
+        "DSA",
+        "Java",
+        "CS Fundamentals",
+        "Web Development"
+    };
+
+    String[] interests = {
+        "Software Development",
+        "AI & Machine Learning",
+        "Creative Development"
+    };
+
+    String motto = "Build. Break. Learn. Repeat.";
+}
+```
 
 ---
-### 🛠 Languages & Tools
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/></a>
+## ⚡ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
 </p>
 
+**Web**
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://streak-stats.demolab.com?user=khushi08shekhawat&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khushi08shekhawat&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
 </p>
+
+**AI / ML**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
 ---
 
-### 🤝 Connect with Me
-- 🌐 Portfolio: https://khushi08shekhawat.github.io
-- 💼 LinkedIn: https://www.linkedin.com/in/khushi-shekhawat-45616331b/
-- 📧 Email: khushishekhawat0811@gmail.com
-<!--
-**khushi08shekhawat/khushi08shekhawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Builds
 
-Here are some ideas to get you started:
+### ☕ Coffee Sales Analysis
+Exploratory data analysis and machine learning on coffee sales data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` • `Pandas` • `Machine Learning`
+
+### 🗺️ Landmark Detection
+Computer vision project for detecting real-world landmarks.
+
+`Python` • `YOLO` • `Computer Vision`
+
+### 🧠 Text Classification
+NLP project for classifying text using deep learning.
+
+`Python` • `TensorFlow` • `NLP`
+
+> More experiments are always cooking... ☕
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi08shekhawat&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi08shekhawat&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦ build something worth remembering ✦
+
+<sub>Thanks for stopping by ♡</sub>
+
+</div>
