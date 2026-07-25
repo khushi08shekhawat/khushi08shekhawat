@@ -143,29 +143,18 @@ I enjoy building practical projects and improving my problem-solving skills.
 
 
 <!-- ======================== STATS ======================== -->
-
 <h2>✦ <code>BY THE NUMBERS</code></h2>
 
 <div align="center">
 
-<!-- GENERAL GITHUB STATS -->
-<img width="32%" 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushi08shekhawat&theme=tokyonight" />
-
-<!-- TOP LANGUAGES -->
-<img width="32%" 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi08shekhawat&theme=tokyonight" />
-
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushi08shekhawat&theme=tokyonight" /> <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi08shekhawat&theme=tokyonight" />
 
 <br><br>
 
-<!-- KEEP THIS LARGE GRAPH -->
-<img width="98%" 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi08shekhawat&theme=tokyonight" />
+<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi08shekhawat&theme=tokyonight" />
 
 </div>
-
-<!-- ======================== CONNECT ======================== -->
+-- ======================== CONNECT ======================== -->
 
 <h2>✦ <code>CONNECT</code></h2>
 
