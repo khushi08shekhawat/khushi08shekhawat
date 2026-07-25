@@ -1,105 +1,89 @@
 <div align="center">
 
-# Hi 👋, I'm Khushi Shekhawat
+# khushi.exe
 
-### `code • create • learn • repeat`
+**developer in progress — currently compiling...**
 
-CSE Undergrad • Software Development • AI/ML
+`Java` · `DSA` · `Web` · `AI/ML`
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+DSA+with+Java+%E2%98%95;Building+things+for+the+web+%F0%9F%8C%90;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Always+learning+something+new+%E2%9C%A8" />
+```text
+khushi@github ~ % whoami
 
-</div>
-
----
-
-## 👩🏻‍💻 A little about me
-
-```java
-public class Khushi {
-
-    String education = "B.Tech CSE • Class of 2027";
-    String focus = "Software Development";
-
-    String[] currentlyLearning = {
-        "DSA",
-        "Java",
-        "CS Fundamentals",
-        "Web Development"
-    };
-
-    String[] interests = {
-        "Software Development",
-        "AI & Machine Learning",
-        "Creative Development"
-    };
-
-    String motto = "Build. Break. Learn. Repeat.";
-}
+> CSE undergraduate
+> curious builder
+> occasional bug creator
+> professional "why isn't this working?" asker
 ```
 
----
+## 01 — currently
 
-## ⚡ Tech Stack
+```yaml
+learning:
+  - DSA with Java
+  - Web Development
+  - CS Fundamentals
 
-**Languages**
+building:
+  - small ideas
+  - better coding habits
+  - things that may or may not work on the first try
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
-</p>
+exploring:
+  - Software Engineering
+  - AI / Machine Learning
 
-**Web**
+status: figuring_it_out()
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
-</p>
+## 02 — my toolbox
 
-**AI / ML**
+```text
+LANGUAGES      Java · Python · C · C++ · JavaScript
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
+WEB            HTML · CSS
 
----
+AI / ML        TensorFlow · OpenCV
 
-## 🚀 Featured Builds
+TOOLS          Git · GitHub · VS Code
+```
 
-### ☕ Coffee Sales Analysis
-Exploratory data analysis and machine learning on coffee sales data.
+## 03 — things I've built
 
-`Python` • `Pandas` • `Machine Learning`
+**coffee-sales-analysis/**  
+Finding patterns in coffee sales with data & ML  
+`Python` `Pandas` `Machine Learning`
 
-### 🗺️ Landmark Detection
-Computer vision project for detecting real-world landmarks.
+**landmark-detection/**  
+Teaching machines to recognise places  
+`Python` `YOLO` `Computer Vision`
 
-`Python` • `YOLO` • `Computer Vision`
+**text-classification/**  
+Making sense of text using neural networks  
+`TensorFlow` `NLP` `Python`
 
-### 🧠 Text Classification
-NLP project for classifying text using deep learning.
+```text
+more projects loading ███████░░░
+```
 
-`Python` • `TensorFlow` • `NLP`
+## 04 — github.log
 
-> More experiments are always cooking... ☕
-
----
-
-## 📊 GitHub
+```text
+[ + ] learning something new
+[ + ] breaking code
+[ + ] fixing what I broke
+[ + ] pushing anyway
+```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=khushi08shekhawat&show_icons=true&hide_border=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi08shekhawat&layout=compact&hide_border=true&theme=transparent" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi08shekhawat&layout=compact&hide_border=true&theme=github_dark" />
+<br><br>
 
-</div>
-
----
-
-<div align="center">
-
-### ✦ build something worth remembering ✦
-
-<sub>Thanks for stopping by ♡</sub>
+`~/khushi` ❯ **still learning. still building.**
 
 </div>
