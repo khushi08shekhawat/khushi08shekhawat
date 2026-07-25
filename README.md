@@ -223,18 +223,25 @@ Restaurant and food ordering web application.
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi08shekhawat&theme=tokyonight"/>
+<!-- GENERAL GITHUB STATS -->
+<img width="32%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushi08shekhawat&theme=tokyonight" />
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushi08shekhawat&theme=tokyonight"/>
+<!-- TOP LANGUAGES -->
+<img width="32%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi08shekhawat&theme=tokyonight" />
+
+<!-- PRODUCTIVE TIME -->
+<img width="32%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushi08shekhawat&theme=tokyonight&utcOffset=5.5" />
 
 <br><br>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi08shekhawat&theme=tokyonight"/>
+<!-- KEEP THIS LARGE GRAPH -->
+<img width="98%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi08shekhawat&theme=tokyonight" />
 
 </div>
-
-<br>
-
 
 <!-- ======================== CONNECT ======================== -->
 
