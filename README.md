@@ -124,69 +124,6 @@ I enjoy building practical projects and improving my problem-solving skills.
 <br>
 
 
-<!-- ======================== PROJECTS ======================== -->
-
-<h2>✦ <code>SELECTED WORK</code></h2>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### `01` ◈ Object Detection
-
-Object detection system developed using **TensorFlow**.
-
-<br>
-
-**Python · TensorFlow · Computer Vision**
-
-<br>
-
-`OBJECT → DETECTION`
-
-</td>
-
-
-<td width="33%" valign="top">
-
-### `02` ◇ Landmark Detection
-
-Computer vision project for detecting real-world landmarks.
-
-<br>
-
-**Python · YOLO · Computer Vision**
-
-<br>
-
-`PIXELS → PLACES`
-
-</td>
-
-
-<td width="33%" valign="top">
-
-### `03` ✦ DineGenie
-
-Restaurant and food ordering web application.
-
-<br>
-
-**TypeScript · Web Development**
-
-<br>
-
-`IDEA → INTERFACE`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-
 <!-- ======================== QUOTE ======================== -->
 
 <div align="center">
@@ -219,9 +156,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kh
 <img width="32%" 
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi08shekhawat&theme=tokyonight" />
 
-<!-- PRODUCTIVE TIME -->
-<img width="32%" 
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushi08shekhawat&theme=tokyonight&utcOffset=5.5" />
 
 <br><br>
 
