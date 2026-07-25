@@ -204,18 +204,6 @@ Restaurant and food ordering web application.
 </div>
 
 
-<!-- ======================== ACTIVITY ======================== -->
-
-<h2>✦ <code>GITHUB ACTIVITY</code></h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khushi08shekhawat&bg_color=0D1117&color=C4B5FD&line=A855F7&point=F0ABFC&area=true&area_color=581C87&hide_border=true&radius=8&custom_title=Contribution%20Activity"/>
-
-</div>
-
-<br>
-
 
 <!-- ======================== STATS ======================== -->
 
