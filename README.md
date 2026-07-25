@@ -1,89 +1,179 @@
+<!-- ─────────────── HERO ─────────────── -->
+
 <div align="center">
 
-# khushi.exe
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=KHUSHI%20SHEKHAWAT&fontSize=42&fontAlignY=38&desc=creating%20%E2%80%A2%20learning%20%E2%80%A2%20building&descAlignY=58&animation=fadeIn"/>
 
-**developer in progress — currently compiling...**
+</div>
 
-`Java` · `DSA` · `Web` · `AI/ML`
+<div align="center">
+
+### ✦ turning coffee into code & ideas into projects ✦
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 
 </div>
 
 <br>
 
-```text
-khushi@github ~ % whoami
+<!-- ─────────────── ABOUT ─────────────── -->
 
-> CSE undergraduate
-> curious builder
-> occasional bug creator
-> professional "why isn't this working?" asker
-```
+## ✦ Hello, internet.
 
-## 01 — currently
+I'm **Khushi**, a CSE undergraduate who likes building things,
+breaking them, wondering why they broke...
 
-```yaml
-learning:
-  - DSA with Java
-  - Web Development
-  - CS Fundamentals
+and eventually making them work.
 
-building:
-  - small ideas
-  - better coding habits
-  - things that may or may not work on the first try
+Currently spending my time somewhere between
 
-exploring:
-  - Software Engineering
-  - AI / Machine Learning
+**DSA ☕ Web Development ✦ AI/ML ✦ Software Engineering**
 
-status: figuring_it_out()
-```
+<br>
 
-## 02 — my toolbox
+<table>
+<tr>
+<td width="50%">
+
+### 🌙 currently
 
 ```text
-LANGUAGES      Java · Python · C · C++ · JavaScript
-
-WEB            HTML · CSS
-
-AI / ML        TensorFlow · OpenCV
-
-TOOLS          Git · GitHub · VS Code
+learning  → DSA with Java
+building  → Web projects
+exploring → Software Engineering
+reading   → CS fundamentals
 ```
 
-## 03 — things I've built
+</td>
 
-**coffee-sales-analysis/**  
-Finding patterns in coffee sales with data & ML  
-`Python` `Pandas` `Machine Learning`
+<td width="50%">
 
-**landmark-detection/**  
-Teaching machines to recognise places  
-`Python` `YOLO` `Computer Vision`
-
-**text-classification/**  
-Making sense of text using neural networks  
-`TensorFlow` `NLP` `Python`
+### ✨ little things
 
 ```text
-more projects loading ███████░░░
+☕ powered by coffee
+🎧 code + music
+🎨 design enthusiast
+🐛 bug collector
+💡 idea hoarder
 ```
 
-## 04 — github.log
+</td>
+</tr>
+</table>
 
-```text
-[ + ] learning something new
-[ + ] breaking code
-[ + ] fixing what I broke
-[ + ] pushing anyway
-```
+<br>
+
+<!-- ─────────────── STACK ─────────────── -->
+
+## ✦ Things I create with
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi08shekhawat&layout=compact&hide_border=true&theme=transparent" />
+### `{ code }`
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js&theme=dark" />
 
 <br><br>
 
-`~/khushi` ❯ **still learning. still building.**
+### `〈 web 〉`
+
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" />
+
+<br><br>
+
+### `✦ intelligence`
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+
+</div>
+
+<br>
+
+<!-- ─────────────── PROJECTS ─────────────── -->
+
+## ✦ From my workspace
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### ☕ Coffee Sales
+
+Finding stories hidden inside sales data.
+
+**Python · Pandas · ML**
+
+`data → insights`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗺 Landmark Detection
+
+Teaching machines to recognise places.
+
+**YOLO · Python · CV**
+
+`pixels → places`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Text Classification
+
+Teaching machines to understand text.
+
+**TensorFlow · NLP**
+
+`words → meaning`
+
+</td>
+
+</tr>
+
+</table>
+
+<div align="right">
+
+*more experiments are brewing...* ☕
+
+</div>
+
+<br>
+
+<!-- ─────────────── GITHUB ─────────────── -->
+
+## ✦ Somewhere on GitHub...
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushi08shekhawat&show_icons=true&hide_border=true&bg_color=00000000&title_color=C792EA&icon_color=89DDFF&text_color=ADB5BD" />
+
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi08shekhawat&layout=compact&hide_border=true&bg_color=00000000&title_color=C792EA&text_color=ADB5BD" />
+
+</div>
+
+<br><br>
+
+<!-- ─────────────── END ─────────────── -->
+
+<div align="center">
+
+### ⋆｡°✩
+
+*"maybe the real bug was the code we wrote along the way"*
+
+<sub>thanks for wandering into my little corner of GitHub ♡</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 
 </div>
