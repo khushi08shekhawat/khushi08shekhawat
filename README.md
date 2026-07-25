@@ -28,7 +28,7 @@
 
 <td width="34%" valign="top">
 
-### 👩🏻‍💻 Hello, internet.
+### 👩🏻‍💻 Hello,
 
 I'm **Khushi**, a CSE undergraduate focused on **Software Development**, with experience in **AI/ML** and **Web Development**.
 
@@ -223,8 +223,6 @@ Restaurant and food ordering web application.
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushi08shekhawat&theme=tokyonight"/>
-
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushi08shekhawat&theme=tokyonight"/>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushi08shekhawat&theme=tokyonight"/>
@@ -244,24 +242,18 @@ Restaurant and food ordering web application.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/khushi-shekhawat-45616331b/">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 &nbsp;
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:khushishekhawat0811@gmail.com">
 <img src="https://img.shields.io/badge/Email-C026D3?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 &nbsp;
-
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://khushi08shekhawat.github.io">
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
-
 </div>
-
 <br><br>
 
 
