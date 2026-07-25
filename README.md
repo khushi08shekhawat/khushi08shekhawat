@@ -154,7 +154,8 @@ I enjoy building practical projects and improving my problem-solving skills.
 <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi08shekhawat&theme=tokyonight" />
 
 </div>
--- ======================== CONNECT ======================== -->
+
+<!-- ======================== CONNECT ======================== -->
 
 <h2>✦ <code>CONNECT</code></h2>
 
@@ -182,8 +183,6 @@ I enjoy building practical projects and improving my problem-solving skills.
 `JAVA` &nbsp; ✦ &nbsp; `DSA` &nbsp; ✦ &nbsp; `WEB` &nbsp; ✦ &nbsp; `AI/ML`
 
 <br><br>
-
-<sub>✦ KHUSHI SHEKHAWAT ✦</sub>
 
 <br>
 
